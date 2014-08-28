@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://chenyinzhu.github.io/cn
+author: chenyinzhu
+pygments: true
+
